@@ -7,15 +7,15 @@ import { FadeInUp } from './AnimatedSection';
 const portfolioImages = [
   {
     src: '/images/DSC05605.jpg',
-    alt: 'Wedding photography - joyful moment',
+    alt: 'Wedding photography, joyful moment',
   },
   {
     src: '/images/DSC03217.jpg',
-    alt: 'Wedding photography - intimate celebration',
+    alt: 'Wedding photography, intimate celebration',
   },
   {
     src: '/images/DSC09479.jpg',
-    alt: 'Wedding photography - golden hour portrait',
+    alt: 'Wedding photography, golden hour portrait',
   },
 ];
 

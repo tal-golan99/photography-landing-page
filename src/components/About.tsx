@@ -21,7 +21,7 @@ export function About() {
 
           <FadeInUp delay={0.1}>
             <p className="mx-auto mt-8 max-w-2xl font-sans text-base font-light leading-relaxed text-graphite sm:text-lg">
-              At 26, photography is more than just a profession to me—it&apos;s how I tell stories. 
+              At 26, photography is more than just a profession to me. It&apos;s how I tell stories. 
               As a wedding photographer, I live for the small moments: a fleeting glance, 
               a burst of laughter, and all the raw emotion in between.
             </p>
@@ -47,7 +47,7 @@ export function About() {
 
           <FadeInUp delay={0.25}>
             <p className="mx-auto mt-6 max-w-2xl font-sans text-base font-light leading-relaxed text-graphite sm:text-lg">
-              My approach is simple: I want to tell your story exactly as it unfolds—authentic, 
+              My approach is simple: I want to tell your story exactly as it unfolds, authentic, 
               candid, and completely unposed. I believe a great photograph should make you feel 
               the magic of your day years later, as if it&apos;s happening all over again.
             </p>
@@ -84,7 +84,7 @@ export function About() {
         <FadeInUp delay={0.45}>
           <p className="mx-auto max-w-xl text-center font-serif text-lg italic leading-relaxed text-stone sm:text-xl">
             If you&apos;re looking for a photographer who understands the significance of your 
-            wedding day and captures your story through genuine imagery—I&apos;m here for you.
+            wedding day and captures your story through genuine imagery, I&apos;m here for you.
           </p>
         </FadeInUp>
 
